@@ -1,2 +1,2 @@
 # SpringbootCrudOperation
-Springbbot CRUD Operation - using Java,Springboot,HIbernate,Thymeleaf,MySql
+Springboot CRUD Operation - using Java,Springboot,HIbernate,Thymeleaf,MySql
